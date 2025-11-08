@@ -177,3 +177,18 @@ CREATE TABLE capsules (
 
 ChronoVault is a simple yet powerful **text-based time capsule app**, showcasing full-stack development with Node.js, React, and MySQL.
 It allows users to securely store messages and retrieve them only at the scheduled unlock date, combining clean architecture with practical time-based logic.
+
+---
+
+## Images
+
+Here are some screenshots of ChronoVault in action:
+
+![Screenshot 1](images/1.png)
+![Screenshot 2](images/2.png)
+![Screenshot 3](images/3.png)
+![Screenshot 4](images/4.png)
+![Screenshot 5](images/5.png)
+![Screenshot 6](images/6.png)
+![Screenshot 7](images/7.png)
+
